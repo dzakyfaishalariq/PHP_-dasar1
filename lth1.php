@@ -11,4 +11,6 @@ komentar kedua saya
 // untuk mendibug
 // var_dump("ini adalah komentar");
 
-echo "hallo saya adalah Dzaky fasihalariq";
+echo "hallo saya adalah Dzaky fasihalariq <br>";
+print_r('hallo saya adalah Dzaky fasihalariq <br>');
+var_dump('hallo saya adalah Dzaky fasihalariq <br>');
